@@ -9,3 +9,4 @@ This repostiory consists of :
 1. Coding: which has html files that were used for creating a web application.
 2. Hostel: which contains data about my Hostel in KNUST that I applied GIS to.
 3. KNUST: which contains data about my University, KNUST for which I used GIS for working on it.
+4. Field Exercise: which contains data I collected from KNUST campus.
